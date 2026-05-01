@@ -16,7 +16,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.PUBLISH_TOKEN }}
         with:
-          source-directory: '.'
+          source-directory: './'
           destination-github-username: 'partyfix'
           destination-repository-name: 'partyfix-data-public'
           target-branch: main
