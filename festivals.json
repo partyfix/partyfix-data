@@ -1,1 +1,1781 @@
-[]
+[
+  {
+    "id": "LOCAL_DEFQON_2026",
+    "name": "Defqon.1 2026",
+    "description": "Defqon.1 is het grootste hardstyle festival ter wereld, georganiseerd door Q-dance. Het vindt plaats op Walibi Holland en trekt fans van over de hele wereld.",
+    "imageUrl": "file:///android_asset/images/defqon.png",
+    "city": "Biddinghuizen",
+    "venue": "Walibi Holland",
+    "startDate": "2026-06-26T12:00:00",
+    "endDate": "2026-06-27T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 89.0,
+    "priceMax": 169.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.q-dance.com/defqon1",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Headhunterz",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "23:30"
+      },
+      {
+        "artist": "D-Block & S-te-Fan",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "21:30"
+      },
+      {
+        "artist": "Zatox",
+        "stage": "Blue",
+        "dayIndex": 1,
+        "timeStart": "20:00",
+        "timeEnd": "21:30"
+      },
+      {
+        "artist": "Radical Redemption",
+        "stage": "Black",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Brennan Heart",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "23:30"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_AWAKENINGS_2026",
+    "name": "Awakenings Festival 2026",
+    "description": "Een van de meest gerenommeerde techno-festivals ter wereld, op het Spaarnwoude terrein. Drie dagen pure techno van de beste internationale acts.",
+    "imageUrl": "file:///android_asset/images/awakenings.png",
+    "city": "Spaarnwoude",
+    "venue": "Spaarnwoude recreatiegebied",
+    "startDate": "2026-06-27T12:00:00",
+    "endDate": "2026-06-29T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 79.0,
+    "priceMax": 149.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.awakenings.com",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Chris Liebing",
+        "stage": "Area V",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Rebekah",
+        "stage": "Area W",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Dax J",
+        "stage": "Area V",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Paula Temple",
+        "stage": "Area W",
+        "dayIndex": 1,
+        "timeStart": "01:00",
+        "timeEnd": "03:00"
+      },
+      {
+        "artist": "Speedy J",
+        "stage": "Area V",
+        "dayIndex": 2,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_DGTL_2026",
+    "name": "DGTL Amsterdam 2026",
+    "description": "DGTL is een avant-garde dance festival in het NDSM-terrein in Amsterdam, bekend om zijn duurzame aanpak en scherpe techno- en house-programmering.",
+    "imageUrl": "https://images.unsplash.com/photo-1504680177321-2e6a879aac86?w=800&q=80",
+    "city": "Amsterdam",
+    "venue": "NDSM-werf",
+    "startDate": "2026-04-02T14:00:00",
+    "endDate": "2026-04-05T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 59.0,
+    "priceMax": 119.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.dgtl.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Amelie Lens",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:30"
+      },
+      {
+        "artist": "Solomun",
+        "stage": "Shelter",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:30"
+      },
+      {
+        "artist": "Fatima Yamaha",
+        "stage": "Boilerroom",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Joris Voorn",
+        "stage": "Mainstage",
+        "dayIndex": 2,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Maceo Plex",
+        "stage": "Shelter",
+        "dayIndex": 2,
+        "timeStart": "23:00",
+        "timeEnd": "01:30"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_MYSTERYLAND_2026",
+    "name": "Mysteryland 2026",
+    "description": "Het oudste dancefestival ter wereld, op het Floriadeterrein in Haarlemmermeer. Twee dagen non-stop elektronische muziek van internationale topacts.",
+    "imageUrl": "file:///android_asset/images/mysteryland.png",
+    "city": "Haarlemmermeer",
+    "venue": "Floriadeterrein",
+    "startDate": "2026-08-29T12:00:00",
+    "endDate": "2026-08-30T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 99.0,
+    "priceMax": 189.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.mysteryland.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Charlotte de Witte",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Adam Beyer",
+        "stage": "Q-dance",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Amelie Lens",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Reinier Zonneveld",
+        "stage": "Q-dance",
+        "dayIndex": 1,
+        "timeStart": "00:00",
+        "timeEnd": "02:00"
+      },
+      {
+        "artist": "Solomun",
+        "stage": "Tunnel",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Fisher",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "20:00",
+        "timeEnd": "21:30"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_AMS_OPEN_AIR_2026",
+    "name": "Amsterdam Open Air 2026",
+    "description": "Amsterdam Open Air is een tweedaags dancefestival in het Noorderpark, met een focus op house, techno en elektronische muziek in een parkachtige setting.",
+    "imageUrl": "file:///android_asset/images/amsterdam_openair.png",
+    "city": "Amsterdam",
+    "venue": "Noorderpark",
+    "startDate": "2026-06-07T13:00:00",
+    "endDate": "2026-06-07T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 55.0,
+    "priceMax": 95.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.amsterdamopenair.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Peggy Gou",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Mall Grab",
+        "stage": "Stage 2",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "DJ Tennis",
+        "stage": "Stage 3",
+        "dayIndex": 1,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Honey Dijon",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_LOVELAND_2026",
+    "name": "Loveland Festival 2026",
+    "description": "Loveland is een van de meest geliefde dancefestivals van Nederland, met twee dagen house en techno op het Sloterpark terrein in Amsterdam-West.",
+    "imageUrl": "https://images.unsplash.com/photo-1429962714451-bb934ecdc4ec?w=800&q=80",
+    "city": "Amsterdam",
+    "venue": "Sloterpark",
+    "startDate": "2026-08-08T13:00:00",
+    "endDate": "2026-08-09T23:30:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 65.0,
+    "priceMax": 115.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.loveland.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "DJ Harvey",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:30"
+      },
+      {
+        "artist": "Antal",
+        "stage": "Boiler Room",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Hunee",
+        "stage": "Stage 2",
+        "dayIndex": 1,
+        "timeStart": "18:00",
+        "timeEnd": "20:00"
+      },
+      {
+        "artist": "Young Marco",
+        "stage": "Stage 2",
+        "dayIndex": 1,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_VERKNIPT_2026",
+    "name": "Verknipt Festival 2026",
+    "description": "Verknipt is hét techno festival van Utrecht, jaarlijks op het Stadsblokkenpark. Twee dagen harde, ongecompromitteerde techno met internationale headliners.",
+    "imageUrl": "file:///android_asset/images/verknipt.png",
+    "city": "Utrecht",
+    "venue": "Stadsblokkenpark",
+    "startDate": "2026-07-04T14:00:00",
+    "endDate": "2026-07-05T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 49.0,
+    "priceMax": 89.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.verknipt.org/festival-2026/",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "I Hate Models",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Dax J",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "SPFDJ",
+        "stage": "Warehouse",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Alignment",
+        "stage": "Warehouse",
+        "dayIndex": 1,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_VUNZIGE_2026",
+    "name": "Vunzige Deuntjes Zomerfestival 2026",
+    "description": "Vunzige Deuntjes brengt de beste party hits en anthems, van 90s eurodance tot hedendaagse house bangers — gegarandeerd een feestje.",
+    "imageUrl": "file:///android_asset/images/vunzige.png",
+    "city": "Rotterdam",
+    "venue": "Zuiderparktheater",
+    "startDate": "2026-07-25T16:00:00",
+    "endDate": "2026-07-25T23:30:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 29.0,
+    "priceMax": 49.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.vunzigedeuntjes.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Fedde le Grand",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Chuckie",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "19:00",
+        "timeEnd": "21:00"
+      },
+      {
+        "artist": "Erick E",
+        "stage": "Stage 2",
+        "dayIndex": 0,
+        "timeStart": "18:00",
+        "timeEnd": "20:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_SOENDA_2026",
+    "name": "Soenda Festival 2026",
+    "description": "Soenda is een intiem techno festival in Fort Ruigenhoek bij Utrecht, uniek door zijn locatie in een historisch fort midden in de natuur.",
+    "imageUrl": "images/soenda.png",
+    "city": "Utrecht",
+    "venue": "Fort Ruigenhoek",
+    "startDate": "2026-05-30T14:00:00",
+    "endDate": "2026-05-31T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 44.0,
+    "priceMax": 79.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.soenda.nl",
+    "isOutdoor": true,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Reinier Zonneveld",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Franky Rizardo",
+        "stage": "Fort Stage",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Len Faki",
+        "stage": "Main",
+        "dayIndex": 1,
+        "timeStart": "00:00",
+        "timeEnd": "02:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_ORBIT_2026",
+    "name": "Orbit Festival 2026",
+    "description": "Orbit is een nieuw festival in Rotterdam Botlek, industrieel en rauw, met een focus op underground techno en experimentele elektronische muziek.",
+    "imageUrl": "file:///android_asset/images/orbit.png",
+    "city": "Rotterdam",
+    "venue": "Botlek Rotterdam",
+    "startDate": "2026-09-05T16:00:00",
+    "endDate": "2026-09-06T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 39.0,
+    "priceMax": 69.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.orbitfestival.nl",
+    "isOutdoor": false,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Blawan",
+        "stage": "Hall A",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:30"
+      },
+      {
+        "artist": "Shifted",
+        "stage": "Hall B",
+        "dayIndex": 0,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Objekt",
+        "stage": "Hall A",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_REBIRTH_2026",
+    "name": "REBiRTH Festival 2026",
+    "description": "REBiRTH Festival is hét hardstyle startschot van het seizoen. Op de Raamse Akkers in Haaren explodeert het festivalterrein met de zwaarste hardstyle, rawstyle en hardcore acts van het moment.",
+    "imageUrl": "file:///android_asset/images/rebirth.png",
+    "city": "Haaren",
+    "venue": "Raamse Akkers",
+    "startDate": "2026-04-10T12:00:00",
+    "endDate": "2026-04-12T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 69.0,
+    "priceMax": 129.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.rebirthfestival.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_ASTATE_2026",
+    "name": "A State of Trance Festival 2026",
+    "description": "Het grootste trance-evenement van Nederland, jaarlijks in de Jaarbeurs Utrecht. Armin van Buuren en de wereld-top van trance zorgen voor een euforische ervaring.",
+    "imageUrl": "file:///android_asset/images/stateoftrance.png",
+    "city": "Utrecht",
+    "venue": "Jaarbeurs Utrecht",
+    "startDate": "2026-02-27T18:00:00",
+    "endDate": "2026-02-28T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 65.0,
+    "priceMax": 99.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.astateoftrance.com",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Armin van Buuren",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Ferry Corsten",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Markus Schulz",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_FREEYOURMIND_2026",
+    "name": "Free Your Mind Festival 2026",
+    "description": "Een van de oudste techno festivals van Nederland, onder de iconische John Frostbrug in Arnhem. Rauw, industrieel en compromisloos in zijn programmering.",
+    "imageUrl": "file:///android_asset/images/freeyourmind.png",
+    "city": "Arnhem",
+    "venue": "Stadsblokken Arnhem",
+    "startDate": "2026-06-06T14:00:00",
+    "endDate": "2026-06-07T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 75.0,
+    "priceMax": 115.0,
+    "currency": "EUR",
+    "ticketUrl": "https://freeyourmindfestival.nl/",
+    "isOutdoor": true,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_WISH_2026",
+    "name": "WiSH Outdoor 2026",
+    "description": "WiSH Outdoor is een kleurrijk dance festival in Beek en Donk met een sprookjesachtige uitstraling. Drie dagen lang house, techno en EDM in een unieke outdoorsetting.",
+    "imageUrl": "file:///android_asset/images/wish.png",
+    "city": "Beek en Donk",
+    "venue": "Festivalterrein Beek en Donk",
+    "startDate": "2026-07-03T12:00:00",
+    "endDate": "2026-07-05T06:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 79.0,
+    "priceMax": 149.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.wishoutdoor.com/nl/",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_AWAKENINGS_UPCLOSE_2026",
+    "name": "Awakenings Upclose 2026",
+    "description": "De intieme versie van Awakenings, gericht op de pure dansvloer-ervaring. Geen grote schermen of massale productie — alleen de muziek, de crowd en de nacht.",
+    "imageUrl": "file:///android_asset/images/upclose.png",
+    "city": "Halfweg",
+    "venue": "Spaarnwoude (Houtrak)",
+    "startDate": "2026-05-16T12:00:00",
+    "endDate": "2026-05-16T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 74.95,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.awakenings.com",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Collabs 3000 (Chris Liebing & Speedy J)",
+        "stage": "area.97",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Alarico & Ben Klock",
+        "stage": "area.97",
+        "dayIndex": 0,
+        "timeStart": "19:00",
+        "timeEnd": "21:00"
+      },
+      {
+        "artist": "Joris Voorn",
+        "stage": "area.97",
+        "dayIndex": 0,
+        "timeStart": "17:30",
+        "timeEnd": "19:00"
+      },
+      {
+        "artist": "Len Faki & Quest",
+        "stage": "area.01",
+        "dayIndex": 0,
+        "timeStart": "18:15",
+        "timeEnd": "20:15"
+      },
+      {
+        "artist": "Planetary Assault Systems (live)",
+        "stage": "area.01",
+        "dayIndex": 0,
+        "timeStart": "20:15",
+        "timeEnd": "21:30"
+      },
+      {
+        "artist": "Rene Wise",
+        "stage": "area.01",
+        "dayIndex": 0,
+        "timeStart": "21:30",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "FUMI & SPFDJ",
+        "stage": "area.07",
+        "dayIndex": 0,
+        "timeStart": "17:45",
+        "timeEnd": "19:30"
+      },
+      {
+        "artist": "Kobosil & Ornella",
+        "stage": "area.07",
+        "dayIndex": 0,
+        "timeStart": "19:30",
+        "timeEnd": "21:30"
+      },
+      {
+        "artist": "Ellen Allien",
+        "stage": "area.14",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Ryan Elliott",
+        "stage": "area.22",
+        "dayIndex": 0,
+        "timeStart": "19:00",
+        "timeEnd": "21:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_DANCE_VALLEY_2026",
+    "name": "Dance Valley 2026",
+    "description": "Dance Valley viert zijn 31e editie in Spaarnwoude. Een van de meest iconische dance festivals van Nederland, met 30.000 bezoekers en acht stages midden in het groen.",
+    "imageUrl": "file:///android_asset/images/dancevalley.png",
+    "city": "Spaarndam",
+    "venue": "Spaarnwoude recreatiegebied",
+    "startDate": "2026-08-08T12:00:00",
+    "endDate": "2026-08-08T23:30:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 69.0,
+    "priceMax": 109.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.dancevalley.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_AUDIO_OBSCURA_2026",
+    "name": "Audio Obscura 2026",
+    "description": "Audio Obscura neemt de iconische Van Nelle fabriek in Rotterdam over. Met hallen, loopbruggen en verborgen ruimtes een dag lang losgaan op de beste elektronische muziek.",
+    "imageUrl": "file:///android_asset/images/audioobscura.png",
+    "city": "Rotterdam",
+    "venue": "Van Nelle Fabriek",
+    "startDate": "2026-08-29T14:00:00",
+    "endDate": "2026-08-29T23:30:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 49.0,
+    "priceMax": 79.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.audio-obscura.com",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Chris Stussy",
+        "stage": "Main Hall",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Prospa",
+        "stage": "Main Hall",
+        "dayIndex": 0,
+        "timeStart": "19:00",
+        "timeEnd": "21:00"
+      },
+      {
+        "artist": "Max Dean",
+        "stage": "Bridge Stage",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_DRAAIMOLEN_2026",
+    "name": "Draaimolen Festival 2026",
+    "description": "Draaimolen keert terug naar het MOB-complex in de bossen van Tilburg. Elektronische muziek, kunst en natuur in een unieke sfeervolle setting.",
+    "imageUrl": "file:///android_asset/images/draaimolen.png",
+    "city": "Tilburg",
+    "venue": "MOB-complex Tilburg",
+    "startDate": "2026-09-04T14:00:00",
+    "endDate": "2026-09-05T23:30:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 55.0,
+    "priceMax": 89.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.draaimolen.nu/#1",
+    "isOutdoor": true,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_LENTEKABINET_2026",
+    "name": "Lentekabinet 2026",
+    "description": "Lentekabinet is Dekmantel's zusterfestival, in de polderlandschappen van Het Twiske. Zorgvuldig gecureerde elektronische muziek met oog voor kunst en omgeving.",
+    "imageUrl": "file:///android_asset/images/lentekabinet.png",
+    "city": "Twiske",
+    "venue": "Het Twiske",
+    "startDate": "2026-05-23T12:00:00",
+    "endDate": "2026-05-24T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 65.0,
+    "priceMax": 105.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.hetkabinetfestival.nl/",
+    "isOutdoor": true,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Honey Dijon",
+        "stage": "Mainstage",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Job Jobse",
+        "stage": "Stage 2",
+        "dayIndex": 0,
+        "timeStart": "19:00",
+        "timeEnd": "21:00"
+      },
+      {
+        "artist": "Gene On Earth",
+        "stage": "Mainstage",
+        "dayIndex": 1,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_INTERCELL_2026",
+    "name": "Intercell Klokgebouw 2026",
+    "description": "Intercell neemt de voormalige Philips-fabriek Klokgebouw in Eindhoven over. Industriële architectuur gecombineerd met indrukwekkende productie en de beste techno.",
+    "imageUrl": "file:///android_asset/images/intercell.png",
+    "city": "Eindhoven",
+    "venue": "Klokgebouw Strijp-S",
+    "startDate": "2026-01-24T20:00:00",
+    "endDate": "2026-01-25T08:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 45.0,
+    "priceMax": 75.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.intercell.nl",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_LOWLANDS_2026",
+    "name": "Lowlands 2026",
+    "description": "Lowlands is een driedaags muziek- en cultuurschappelijk festival in Biddinghuizen. Naast de bekende dance tent ArmadiLLow kun je er ook terecht voor theater, comedy, film en wetenschap.",
+    "imageUrl": "file:///android_asset/images/lowlands.png",
+    "city": "Biddinghuizen",
+    "venue": "Walibi Holland",
+    "startDate": "2026-08-21T10:00:00",
+    "endDate": "2026-08-23T23:59:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 249.0,
+    "priceMax": 299.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.lowlands.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": null,
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_DTRH_2026",
+    "name": "Down The Rabbit Hole 2026",
+    "description": "Down The Rabbit Hole is een driedaags avontuurlijk festival op de Groene Heuvels in Ewijk, waar muziek en kunst samenkomen in een unieke sfeervolle omgeving.",
+    "imageUrl": "file:///android_asset/images/rabbithole.png",
+    "city": "Ewijk",
+    "venue": "Groene Heuvels",
+    "startDate": "2026-07-03T12:00:00",
+    "endDate": "2026-07-05T23:59:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 189.0,
+    "priceMax": 239.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.downtherabbithole.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": null,
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_KORSAKOV_2026",
+    "name": "Korsakov Kingsnight 2026",
+    "description": "Korsakov neemt Now&Wow Rotterdam over voor Koningsnacht. Een nacht vol drum & bass met een divers en heavyweight lineup.",
+    "imageUrl": "https://images.unsplash.com/photo-1574169208507-84376144848b?w=800&q=80",
+    "city": "Rotterdam",
+    "venue": "Now&Wow",
+    "startDate": "2026-04-26T23:00:00",
+    "endDate": "2026-04-27T07:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 49.0,
+    "priceMax": 89.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.korsakovmusic.com",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_LIQUICITY_2026",
+    "name": "Liquicity Festival 2026",
+    "description": "Het toonaangevende drum & bass festival viert zijn 10-jarig jubileum op Recreatiegebied Geestmerambacht. Drie dagen melodische en liquid drum & bass in een prachtige natuuromgeving met camping.",
+    "imageUrl": "file:///android_asset/images/liquicity.png",
+    "city": "Oudkarspel",
+    "venue": "Recreatiegebied Geestmerambacht",
+    "startDate": "2026-07-24T11:00:00",
+    "endDate": "2026-07-26T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 89.0,
+    "priceMax": 159.0,
+    "currency": "EUR",
+    "ticketUrl": "https://festival.liquicity.com",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_BLACKOUT_XL_2026",
+    "name": "Eatbrain Indoor Festival — 15 Year Anniversary",
+    "description": "Eatbrain viert zijn 15-jarig jubileum in de Maassilo Rotterdam. Een avond vol neurofunk en dark drum & bass van de beste Eatbrain artiesten.",
+    "imageUrl": "file:///android_asset/images/eatbrain.png",
+    "city": "Rotterdam",
+    "venue": "Maassilo",
+    "startDate": "2026-05-22T23:00:00",
+    "endDate": "2026-05-23T07:00:00",
+    "category": "Concert",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 25.0,
+    "priceMax": 45.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.eatbrain.net/events",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_VISION_DNB_2026",
+    "name": "Chase & Status",
+    "description": "Chase & Status brengen hun legendarische live show naar 013 Tilburg. Een van de grootste namen in drum & bass live op het podium.",
+    "imageUrl": "file:///android_asset/images/chasestatus.png",
+    "city": "Tilburg",
+    "venue": "013",
+    "startDate": "2026-06-05T20:00:00",
+    "endDate": "2026-06-05T23:30:00",
+    "category": "Club",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 10.0,
+    "priceMax": 20.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.013.nl",
+    "isOutdoor": false,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Chase & Status",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "21:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_FACTION_2026",
+    "name": "Up Till Dawn",
+    "description": "Up Till Dawn is een nachtelijk drum & bass feest in Now&Wow Rotterdam. Non-stop D&B van middernacht tot zonsopgang.",
+    "imageUrl": "file:///android_asset/images/uptilldawn.png",
+    "city": "Rotterdam",
+    "venue": "Now&Wow",
+    "startDate": "2026-06-26T23:00:00",
+    "endDate": "2026-06-27T07:00:00",
+    "category": "Club",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 12.0,
+    "priceMax": 22.0,
+    "currency": "EUR",
+    "ticketUrl": "https://dance.maassilo.com/agenda/",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_AMSTERDAMS_VERBOND_2026",
+    "name": "Het Amsterdams Verbond 2026",
+    "description": "Het Amsterdams Verbond is een groot eendaags stadsfestival in het Olympisch Stadion met meerdere stages en een breed spectrum aan Nederlandse urban, dance en clubmuziek.",
+    "imageUrl": "file:///android_asset/images/amsterdamsverbond.png",
+    "city": "Amsterdam",
+    "venue": "Olympisch Stadion",
+    "startDate": "2026-05-05T12:00:00",
+    "endDate": "2026-05-05T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 69.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://hetamsterdamsverbond.nl",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Bokoesam",
+        "stage": "Mokums Paradijs",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Frenna",
+        "stage": "Mokums Paradijs",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Benny Rodrigues",
+        "stage": "Shelter x Overbruggen",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Chuckie b2b Yucky",
+        "stage": "Casa Bacardí",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_THUISHAVEN_ZOMER_2026",
+    "name": "Thuishaven Zomeropening 2026",
+    "description": "Thuishaven opent het zomerseizoen op het terrein aan het IJ. Een relaxte dagshow met de beste selectie house en elektronische muziek.",
+    "imageUrl": "file:///android_asset/images/thuishaven.png",
+    "city": "Amsterdam",
+    "venue": "Thuishaven terrein",
+    "startDate": "2026-05-16T13:00:00",
+    "endDate": "2026-05-16T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 26.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.thuishaven.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Michel de Hey",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Merel Helderman",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Job de Jong",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Locklead",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_MOMENTS_2026",
+    "name": "Moments 2026",
+    "description": "Moments is een intiem dance-evenement op Kaap Amsterdam aan het IJ. House en deep techno in een sfeervolle buitenomgeving.",
+    "imageUrl": "file:///android_asset/images/moments.png",
+    "city": "Amsterdam",
+    "venue": "Kaap Amsterdam",
+    "startDate": "2026-05-17T12:00:00",
+    "endDate": "2026-05-18T00:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 32.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.kaapamsterdam.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Guy Mantzur",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Sahar Z",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Chaim",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Olivier Weiter",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_THUISHAVEN_BELT_2026",
+    "name": "Thuishaven w/ Mr. Belt & Wezol 10HRS",
+    "description": "Mr. Belt & Wezol spelen een marathon set van 10 uur op het Thuishaven terrein. Pure house muziek van begin tot eind.",
+    "imageUrl": "file:///android_asset/images/mrbelt.png",
+    "city": "Amsterdam",
+    "venue": "Thuishaven terrein",
+    "startDate": "2026-05-17T13:00:00",
+    "endDate": "2026-05-17T23:00:00",
+    "category": "Club",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 34.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://thuishaven.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Mr Belt & Wezol (10HRS)",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_RAINBOW_DISCO_2026",
+    "name": "Rainbow Disco Club 2026",
+    "description": "Rainbow Disco Club neemt Lofi Amsterdam over voor een dag vol disco, house en diepgravende selecties van wereldklasse DJs.",
+    "imageUrl": "file:///android_asset/images/rainbow.png",
+    "city": "Amsterdam",
+    "venue": "Lofi Amsterdam",
+    "startDate": "2026-05-23T14:00:00",
+    "endDate": "2026-05-24T05:00:00",
+    "category": "Club",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 25.0,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://lofi.amsterdam",
+    "isOutdoor": false,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Gilles Peterson",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "05:00"
+      },
+      {
+        "artist": "Antal",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "05:00"
+      },
+      {
+        "artist": "Satoshi Tomiie",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "05:00"
+      },
+      {
+        "artist": "Coco Maria",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "05:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_THUISHAVEN_MAHMUT_2026",
+    "name": "Thuishaven w/ Mahmut Orhan",
+    "description": "Thuishaven presenteert Mahmut Orhan samen met een sterk ondersteunend programma op het terrein aan het IJ.",
+    "imageUrl": "file:///android_asset/images/thuishavenmamut.png",
+    "city": "Amsterdam",
+    "venue": "Thuishaven terrein",
+    "startDate": "2026-05-23T13:00:00",
+    "endDate": "2026-05-23T23:00:00",
+    "category": "Club",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 30.0,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.thuishaven.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Mahmut Orhan",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "ARYMÉ",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Nils Hoffmann (live)",
+        "stage": "Loods",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_909_2026",
+    "name": "909 Festival 2026",
+    "description": "909 is een van de beste techno dagfestivals van Nederland, georganiseerd door Loveland in het Amsterdamse Bos. Met 22.500 bezoekers en een indrukwekkende lineup van internationale topacts.",
+    "imageUrl": "file:///android_asset/images/909.png",
+    "city": "Amstelveen",
+    "venue": "Amsterdamse Bos",
+    "startDate": "2026-06-06T12:00:00",
+    "endDate": "2026-06-06T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 79.95,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://909.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Adam Beyer",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Marcel Dettmann",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Mall Grab",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Speedy J",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "FJAAK x KiNK live",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Folamour",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Héctor Oaks",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_FESTIFEST_2026",
+    "name": "Festifest 2026",
+    "description": "Festifest is een dag vol house en disco op de NDSM Helling in Amsterdam. Bekend om zijn zorgvuldig gecureerde lineup en intieme sfeer.",
+    "imageUrl": "file:///android_asset/images/festifest.png",
+    "city": "Amsterdam",
+    "venue": "NDSM Helling",
+    "startDate": "2026-06-06T13:00:00",
+    "endDate": "2026-06-06T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 59.0,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.festifest.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Danilo Plessow aka Motor City Drum Ensemble",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Gerd Janson",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "CC:Disco! & Erol Alkan",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Paula Tape",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_BKS_2026",
+    "name": "Best Kept Secret 2026",
+    "description": "Best Kept Secret is een driedaags muziekfestival in de prachtige natuur van Beekse Bergen in Hilvarenbeek. Met een eclectische mix van muziek, kunst en cultuur.",
+    "imageUrl": "file:///android_asset/images/bestkept.png",
+    "city": "Hilvarenbeek",
+    "venue": "Beekse Bergen",
+    "startDate": "2026-06-12T10:00:00",
+    "endDate": "2026-06-14T23:45:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 189.0,
+    "priceMax": 249.0,
+    "currency": "EUR",
+    "ticketUrl": "https://www.bestkeptsecret.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": null,
+    "lineup": [
+      {
+        "artist": "Gorillaz",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Nick Cave & The Bad Seeds",
+        "stage": "Main",
+        "dayIndex": 1,
+        "timeStart": "20:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Job Jobse",
+        "stage": "Club",
+        "dayIndex": 0,
+        "timeStart": "23:00",
+        "timeEnd": "01:00"
+      },
+      {
+        "artist": "Weval (live)",
+        "stage": "Club",
+        "dayIndex": 1,
+        "timeStart": "22:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_TROPIKALI_2026",
+    "name": "Tropikali Festival 2026",
+    "description": "Tropikali is een kleurrijk festival op de NDSM-werf in Amsterdam met een mix van Mediterrane, Latijns-Amerikaanse en elektronische muziek op meerdere stages.",
+    "imageUrl": "file:///android_asset/images/tropikali.png",
+    "city": "Amsterdam",
+    "venue": "NDSM-werf",
+    "startDate": "2026-06-13T12:00:00",
+    "endDate": "2026-06-13T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 40.0,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.tropikali.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": null,
+    "lineup": [
+      {
+        "artist": "Massimiliano Pagliara",
+        "stage": "Rosario",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Doppelgang",
+        "stage": "Rosario",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_DRIFT_2026",
+    "name": "Drift Festival 2026",
+    "description": "Drift is een house, techno en disco festival op NYMA in Nijmegen. Een sterke lokale en internationale lineup in een industriële setting aan de Waal.",
+    "imageUrl": "file:///android_asset/images/drift.png",
+    "city": "Nijmegen",
+    "venue": "NYMA",
+    "startDate": "2026-06-13T14:00:00",
+    "endDate": "2026-06-14T00:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 57.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.driftomtedansen.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Chris Liebing",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Antal",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Alarico b2b Yanamaste",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "CARISTA",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_SOLSTICE_2026",
+    "name": "Solstice Festival 2026",
+    "description": "Solstice viert de langste dag van het jaar in het kunstenaarsdorp Ruigoord met een psychedelic trance festival. Een moderne twist op oude midsomernachtrituelen.",
+    "imageUrl": "file:///android_asset/images/solstice.png",
+    "city": "Amsterdam",
+    "venue": "Ruigoord",
+    "startDate": "2026-06-20T12:00:00",
+    "endDate": "2026-06-21T01:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 49.0,
+    "priceMax": 94.0,
+    "currency": "EUR",
+    "ticketUrl": "https://ruigoord.nl",
+    "isOutdoor": true,
+    "isAccessible": false,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_ZAMNA_2026",
+    "name": "Zamna Amsterdam 2026",
+    "description": "Zamna brengt zijn Mexicaanse festivalformule naar Amsterdam. Elektronische muziek in een exotische setting met een international toplineup.",
+    "imageUrl": "file:///android_asset/images/zamna.png",
+    "city": "Amsterdam",
+    "venue": "Havenpark",
+    "startDate": "2026-06-27T14:00:00",
+    "endDate": "2026-06-28T00:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 49.5,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://zamnafestival.com/events/amsterdam-2026",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Hugel",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Innellea (DJ Set)",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Korolova",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      },
+      {
+        "artist": "Chuckie b2b Dyna",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "14:00",
+        "timeEnd": "00:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_WASTELAND_2026",
+    "name": "Wasteland Summerfest 2026",
+    "description": "Wasteland Summerfest is een post-apocalyptisch themed festival op Kaap Amsterdam. Een dag vol vrijheid, kunst, shows en meerdere stages met uiteenlopende dance muziek.",
+    "imageUrl": "file:///android_asset/images/wasteland.png",
+    "city": "Amsterdam",
+    "venue": "Kaap Amsterdam",
+    "startDate": "2026-07-04T13:00:00",
+    "endDate": "2026-07-04T22:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 60.0,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.wasteland.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": []
+  },
+  {
+    "id": "LOCAL_RAVETRIBE_2026",
+    "name": "Rave Tribe Festival 2026",
+    "description": "Rave Tribe is een nostalgie-festival op Thuishaven terrein met de beste house, trance, acid en oldskool rave classics uit de late jaren 80 en 90.",
+    "imageUrl": "images/ravetribe.png",
+    "city": "Amsterdam",
+    "venue": "Thuishaven terrein",
+    "startDate": "2026-07-04T13:00:00",
+    "endDate": "2026-07-04T23:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 35.95,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://www.thebeginningofhouse.nl",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Lucien Foort pres. Analog Kitchen (live)",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Marco V",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Roog",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Erick E",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Dimitri",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      },
+      {
+        "artist": "Johan Gielen",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "23:00"
+      }
+    ]
+  },
+  {
+    "id": "LOCAL_WOOFERLAND_2026",
+    "name": "Wooferland Festival 2026",
+    "description": "Wooferland is hét classics festival van Nederland — house classics, techno classics, acid en rave bij de grote vijver in Houtrak. Een dag vol nostalgie met een indrukwekkende lineup.",
+    "imageUrl": "file:///android_asset/images/wooferland.png",
+    "city": "Haarlemmerliede",
+    "venue": "Houtrak grote vijver",
+    "startDate": "2026-08-29T13:00:00",
+    "endDate": "2026-08-29T22:00:00",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "isFree": false,
+    "priceMin": 58.4,
+    "priceMax": null,
+    "currency": "EUR",
+    "ticketUrl": "https://wooferland.com",
+    "isOutdoor": true,
+    "isAccessible": true,
+    "ageRestriction": "18+",
+    "lineup": [
+      {
+        "artist": "Speedy J",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Sander van Doorn",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Marco Bailey",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Benny Rodrigues",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Darren Emerson",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Erick E",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Dimitri",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      },
+      {
+        "artist": "Lucien Foort presents Analog Kitchen Live",
+        "stage": "Main",
+        "dayIndex": 0,
+        "timeStart": "13:00",
+        "timeEnd": "22:00"
+      }
+    ]
+  }
+]
