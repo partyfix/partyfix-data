@@ -1777,5 +1777,23 @@
         "timeEnd": "22:00"
       }
     ]
+  },
+  {
+    "id": "LOCAL_TEST_1_2026",
+    "lineup": [],
+    "name": "Test 1",
+    "venue": "Home",
+    "city": "Amsterdam",
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "ageRestriction": "",
+    "ticketUrl": null,
+    "priceMin": 1,
+    "priceMax": 10,
+    "currency": "EUR",
+    "isAccessible": false,
+    "description": "Dit is een test",
+    "startDate": "2026-05-23T12:00:00",
+    "endDate": "2026-05-23T23:55:00"
   }
 ]
