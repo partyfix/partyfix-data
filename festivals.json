@@ -1780,18 +1780,27 @@
   },
   {
     "id": "LOCAL_TEST_1_2026",
-    "lineup": [],
+    "lineup": [
+      {
+        "artist": "Derrick May",
+        "stage": "Main Stage",
+        "dayIndex": 0,
+        "timeStart": "12:00",
+        "timeEnd": "23:59",
+        "spotifyUrl": ""
+      }
+    ],
     "name": "Test 1",
     "venue": "Home",
     "city": "Amsterdam",
     "category": "Festival",
     "genre": "Electronic/Dance",
-    "ageRestriction": "",
+    "ageRestriction": "18+",
     "ticketUrl": null,
     "priceMin": 1,
     "priceMax": 10,
     "currency": "EUR",
-    "isAccessible": false,
+    "isAccessible": true,
     "description": "Dit is een test",
     "startDate": "2026-05-23T12:00:00",
     "endDate": "2026-05-23T23:55:00"
