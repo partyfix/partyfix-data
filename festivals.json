@@ -1351,8 +1351,8 @@
     "category": "Festival",
     "genre": "Electronic/Dance",
     "isFree": false,
-    "priceMin": 49.5,
-    "priceMax": null,
+    "priceMin": 49,
+    "priceMax": 199,
     "currency": "EUR",
     "ticketUrl": "https://zamnafestival.com/events/amsterdam-2026",
     "isOutdoor": true,
@@ -1387,7 +1387,8 @@
         "timeStart": "14:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null
   },
   {
     "id": "LOCAL_WASTELAND_2026",
@@ -1551,5 +1552,25 @@
         "timeEnd": "22:00"
       }
     ]
+  },
+  {
+    "id": "LOCAL_PLANET_PARADIGM_2026_2026",
+    "lineup": [],
+    "name": "Planet Paradigm 2026",
+    "venue": "Paradigm",
+    "city": "Groningen",
+    "address": null,
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "ageRestriction": "18+",
+    "ticketUrl": "https://paradigm050.com/events/planet-paradigm-2026/",
+    "priceMin": 52,
+    "priceMax": null,
+    "currency": "EUR",
+    "isAccessible": false,
+    "description": "Planet Paradigm keert terug op 30 mei in Groningen — een dag vol zware techno, hypnotische house en underground beats op één van de vetste festivallocaties van het noorden. Van 13:00 tot 23:59 dans je jezelf de wereld uit op het iconische Paradigm-terrein aan de Suikerlaan.\n\nPlanet Paradigm is back on May 30th in Groningen — a full day of heavy techno, hypnotic house and underground beats at one of the North's finest festival venues. From 1 PM until 11.59 PM you'll dance your heart out at the iconic Paradigm grounds on Suikerlaan.",
+    "startDate": "1978-05-30T13:00:00",
+    "endDate": "1978-05-30T23:59:00",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/paradigm.png"
   }
 ]
