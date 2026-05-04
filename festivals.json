@@ -1572,5 +1572,25 @@
     "startDate": "1978-05-30T13:00:00",
     "endDate": "1978-05-30T23:59:00",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/paradigm.png"
+  },
+  {
+    "id": "LOCAL_BOOTHSTOCK_2026_2026",
+    "lineup": [],
+    "name": "Boothstock 2026",
+    "venue": "Kralingse Bos",
+    "city": "Rotterdam",
+    "address": null,
+    "category": "Festival",
+    "genre": "Electronic/Dance",
+    "ageRestriction": "18+",
+    "ticketUrl": "https://boothstock.nl/",
+    "priceMin": 63.4,
+    "priceMax": 71.4,
+    "currency": "EUR",
+    "isAccessible": false,
+    "description": "Boothstock Festival keert op zaterdag 13 juni 2026 terug naar het prachtige Kralingse Bos in Rotterdam — House, techno en urban sounds verspreid over zeven stages. De line-up is weer van het hoogste niveau met namen als Armand van Helden, 999999999, Hot Since 82, Benny Rodrigues. Van 13:00 tot 23:00 is het Kralingse Bos dé plek om de zomer mee in te luiden.\n\nBoothstock Festival returns on Saturday June 13th 2026 to the beautiful Kralingse Bos in Rotterdam — house, techno and urban sounds spread across seven stages. The line-up is top-tier once again with names like Armand van Helden, 999999999, Hot Since 82 and Benny Rodrigues. From 1 PM until 11 PM, Kralingse Bos is the place to kick off your summer in style.",
+    "startDate": "2026-06-13T13:00:00",
+    "endDate": null,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/bootstock.png"
   }
 ]
