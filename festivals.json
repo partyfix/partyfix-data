@@ -219,7 +219,7 @@
     "description": "Verknipt is hét techno festival van Utrecht, jaarlijks op het Stadsblokkenpark. Twee dagen harde, ongecompromitteerde techno met internationale headliners.\n\nVerknipt is Utrecht’s flagship techno festival, held annually at Stadsblokkenpark. Two days of hard, uncompromising techno with international headliners.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/verknipt.png",
     "city": "Utrecht",
-    "venue": "Stadsblokkenpark",
+    "venue": "Strijkviertel",
     "startDate": "2026-06-06T14:00:00",
     "endDate": "2026-06-06T06:00:00",
     "category": "Festival",
@@ -261,7 +261,8 @@
         "timeStart": "23:00",
         "timeEnd": "01:00"
       }
-    ]
+    ],
+    "address": null
   },
   {
     "id": "LOCAL_VUNZIGE_2026",
