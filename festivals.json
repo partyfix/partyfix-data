@@ -2,7 +2,7 @@
   {
     "id": "LOCAL_DEFQON_2026",
     "name": "Defqon.1 2026",
-    "description": "Defqon.1 is een Nederlands dancefestival dat zich richt op hardstyle en hardcore muziek, georganiseerd door Q-dance. Het vindt jaarlijks plaats in Biddinghuizen en is uitgegroeid tot het grootste hardstyle festival ter wereld.\n\nDefqon.1 is a Dutch dance festival focused on hardstyle and hardcore music, organized by Q-dance. It takes place annually in Biddinghuizen and has grown into the largest hardstyle festival in the world.",
+    "description": "Defqon.1 is een Nederlands dancefestival dat zich richt op hardstyle en hardcore muziek, georganiseerd door Q-dance. Het vindt jaarlijks plaats in Biddinghuizen en is uitgegroeid tot het grootste hardstyle festival ter wereld.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/defqon.png",
     "city": "Biddinghuizen",
     "venue": "Walibi Holland",
@@ -54,12 +54,14 @@
         "timeStart": "22:00",
         "timeEnd": "23:30"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Defqon.1 is a Dutch dance festival focused on hardstyle and hardcore music, organized by Q-dance. It takes place annually in Biddinghuizen and has grown into the largest hardstyle festival in the world."
   },
   {
     "id": "LOCAL_AWAKENINGS_2026",
     "name": "Awakenings Festival 2026",
-    "description": "Een van de meest gerenommeerde techno-festivals ter wereld, op het Spaarnwoude terrein. Drie dagen pure techno van de beste internationale acts.\n\nOne of the most renowned techno festivals in the world, held at the Spaarnwoude grounds. Three days of pure techno from the best international acts.",
+    "description": "Een van de meest gerenommeerde techno-festivals ter wereld, op het Spaarnwoude terrein. Drie dagen pure techno van de beste internationale acts.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/awakenings.png",
     "city": "Spaarnwoude",
     "venue": "Spaarnwoude recreatiegebied",
@@ -111,12 +113,14 @@
         "timeStart": "20:00",
         "timeEnd": "22:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "One of the most renowned techno festivals in the world, held at the Spaarnwoude grounds. Three days of pure techno from the best international acts."
   },
   {
     "id": "LOCAL_AMS_OPEN_AIR_2026",
     "name": "Amsterdam Open Air 2026",
-    "description": "Amsterdam Open Air is een tweedaags dancefestival in het Noorderpark, met een focus op house, techno en elektronische muziek in een parkachtige setting.\n\nAmsterdam Open Air is a two-day dance festival in Noorderpark, focused on house, techno, and electronic music in a park-like setting.",
+    "description": "Amsterdam Open Air is een tweedaags dancefestival in het Noorderpark, met een focus op house, techno en elektronische muziek in een parkachtige setting.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/amsterdam_openair.png",
     "city": "Amsterdam",
     "venue": "Noorderpark",
@@ -161,12 +165,14 @@
         "timeStart": "22:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Amsterdam Open Air is a two-day dance festival in Noorderpark, focused on house, techno, and electronic music in a park-like setting."
   },
   {
     "id": "LOCAL_LOVELAND_2026",
     "name": "Loveland Festival 2026",
-    "description": "Loveland is een van de meest geliefde dancefestivals van Nederland, met twee dagen house en techno op het Sloterpark terrein in Amsterdam-West.\n\nLoveland is one of the most beloved dance festivals in the Netherlands, with two days of house and techno at the Sloterpark grounds in Amsterdam-West.",
+    "description": "Loveland is een van de meest geliefde dancefestivals van Nederland, met twee dagen house en techno op het Sloterpark terrein in Amsterdam-West.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/loveland.png",
     "city": "Amsterdam",
     "venue": "Sloterpark",
@@ -211,12 +217,14 @@
         "timeStart": "20:00",
         "timeEnd": "22:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Loveland is one of the most beloved dance festivals in the Netherlands, with two days of house and techno at the Sloterpark grounds in Amsterdam-West."
   },
   {
     "id": "LOCAL_VERKNIPT_2026",
     "name": "Verknipt Festival 2026",
-    "description": "Verknipt is hét techno festival van Utrecht, jaarlijks op het Stadsblokkenpark. Twee dagen harde, ongecompromitteerde techno met internationale headliners.\n\nVerknipt is Utrecht’s flagship techno festival, held annually at Stadsblokkenpark. Two days of hard, uncompromising techno with international headliners.",
+    "description": "Verknipt is hét techno festival van Utrecht, jaarlijks op het Stadsblokkenpark. Twee dagen harde, ongecompromitteerde techno met internationale headliners.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/verknipt.png",
     "city": "Utrecht",
     "venue": "Strijkviertel",
@@ -262,12 +270,13 @@
         "timeEnd": "01:00"
       }
     ],
-    "address": null
+    "address": null,
+    "descriptionEn": "Verknipt is Utrecht’s flagship techno festival, held annually at Stadsblokkenpark. Two days of hard, uncompromising techno with international headliners."
   },
   {
     "id": "LOCAL_VUNZIGE_2026",
     "name": "Vunzige Deuntjes Zomerfestival 2026",
-    "description": "Vunzige Deuntjes brengt de beste party hits en anthems, van 90s eurodance tot hedendaagse house bangers — gegarandeerd een feestje.\n\nVunzige Deuntjes brings the best party hits and anthems, from 90s eurodance to today’s house bangers — a guaranteed party.",
+    "description": "Vunzige Deuntjes brengt de beste party hits en anthems, van 90s eurodance tot hedendaagse house bangers — gegarandeerd een feestje.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/vunzige.png",
     "city": "Rotterdam",
     "venue": "Zuiderparktheater",
@@ -305,12 +314,14 @@
         "timeStart": "18:00",
         "timeEnd": "20:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Vunzige Deuntjes brings the best party hits and anthems, from 90s eurodance to today’s house bangers — a guaranteed party."
   },
   {
     "id": "LOCAL_SOENDA_2026",
     "name": "Soenda Festival 2026",
-    "description": "Soenda is een intiem techno festival in Fort Ruigenhoek bij Utrecht, uniek door zijn locatie in een historisch fort midden in de natuur.\n\nSoenda is an intimate techno festival at Fort Ruigenhoek near Utrecht, unique for its setting in a historic fort surrounded by nature.",
+    "description": "Soenda is een intiem techno festival in Fort Ruigenhoek bij Utrecht, uniek door zijn locatie in een historisch fort midden in de natuur.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/soenda.png",
     "city": "Utrecht",
     "venue": "Fort Ruigenhoek",
@@ -348,12 +359,14 @@
         "timeStart": "00:00",
         "timeEnd": "02:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Soenda is an intimate techno festival at Fort Ruigenhoek near Utrecht, unique for its setting in a historic fort surrounded by nature."
   },
   {
     "id": "LOCAL_ORBIT_2026",
     "name": "Orbit Festival 2026",
-    "description": "Orbit is een nieuw festival in Rotterdam Botlek, industrieel en rauw, met een focus op underground techno en experimentele elektronische muziek.\n\nOrbit is a new festival in the Rotterdam Botlek area, industrial and raw, with a focus on underground techno and experimental electronic music.",
+    "description": "Orbit is een nieuw festival in Rotterdam Botlek, industrieel en rauw, met een focus op underground techno en experimentele elektronische muziek.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/orbit.png",
     "city": "Rotterdam",
     "venue": "Botlek Rotterdam",
@@ -391,12 +404,14 @@
         "timeStart": "22:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Orbit is a new festival in the Rotterdam Botlek area, industrial and raw, with a focus on underground techno and experimental electronic music."
   },
   {
     "id": "LOCAL_FREEYOURMIND_2026",
     "name": "Free Your Mind Festival 2026",
-    "description": "Een van de oudste techno festivals van Nederland, onder de iconische John Frostbrug in Arnhem. Rauw, industrieel en compromisloos in zijn programmering.\n\nOne of the oldest techno festivals in the Netherlands, held under the iconic John Frost Bridge in Arnhem. Raw, industrial, and uncompromising in its programming.",
+    "description": "Een van de oudste techno festivals van Nederland, onder de iconische John Frostbrug in Arnhem. Rauw, industrieel en compromisloos in zijn programmering.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/freeyourmind.png",
     "city": "Arnhem",
     "venue": "Stadsblokken Arnhem",
@@ -412,12 +427,14 @@
     "isOutdoor": true,
     "isAccessible": false,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "One of the oldest techno festivals in the Netherlands, held under the iconic John Frost Bridge in Arnhem. Raw, industrial, and uncompromising in its programming."
   },
   {
     "id": "LOCAL_WISH_2026",
     "name": "WiSH Outdoor 2026",
-    "description": "WiSH Outdoor is een kleurrijk dance festival in Beek en Donk met een sprookjesachtige uitstraling. Drie dagen lang house, techno en EDM in een unieke outdoorsetting.\n\nWiSH Outdoor is a colorful dance festival in Beek en Donk with a fairytale-like atmosphere. Three days of house, techno, and EDM in a unique outdoor setting.",
+    "description": "WiSH Outdoor is een kleurrijk dance festival in Beek en Donk met een sprookjesachtige uitstraling. Drie dagen lang house, techno en EDM in een unieke outdoorsetting.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/wish.png",
     "city": "Beek en Donk",
     "venue": "Festivalterrein Beek en Donk",
@@ -433,12 +450,14 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "WiSH Outdoor is a colorful dance festival in Beek en Donk with a fairytale-like atmosphere. Three days of house, techno, and EDM in a unique outdoor setting."
   },
   {
     "id": "LOCAL_AWAKENINGS_UPCLOSE_2026",
     "name": "Awakenings Upclose 2026",
-    "description": "De intieme versie van Awakenings, gericht op de pure dansvloer-ervaring. Geen grote schermen of massale productie — alleen de muziek, de crowd en de nacht.\n\nThe intimate version of Awakenings, focused on the pure dancefloor experience. No big screens or massive production — just the music, the crowd, and the night.",
+    "description": "De intieme versie van Awakenings, gericht op de pure dansvloer-ervaring. Geen grote schermen of massale productie — alleen de muziek, de crowd en de nacht.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/upclose.png",
     "city": "Halfweg",
     "venue": "Spaarnwoude (Houtrak)",
@@ -525,12 +544,14 @@
         "timeStart": "19:00",
         "timeEnd": "21:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "The intimate version of Awakenings, focused on the pure dancefloor experience. No big screens or massive production — just the music, the crowd, and the night."
   },
   {
     "id": "LOCAL_DANCE_VALLEY_2026",
     "name": "Dance Valley 2026",
-    "description": "Dance Valley viert zijn 31e editie in Spaarnwoude. Een van de meest iconische dance festivals van Nederland, met 30.000 bezoekers en acht stages midden in het groen.\n\nDance Valley celebrates its 31st edition in Spaarnwoude. One of the most iconic dance festivals in the Netherlands, with 30,000 visitors and eight stages surrounded by greenery.",
+    "description": "Dance Valley viert zijn 31e editie in Spaarnwoude. Een van de meest iconische dance festivals van Nederland, met 30.000 bezoekers en acht stages midden in het groen.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/dancevalley.png",
     "city": "Spaarndam",
     "venue": "Spaarnwoude recreatiegebied",
@@ -546,12 +567,14 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Dance Valley celebrates its 31st edition in Spaarnwoude. One of the most iconic dance festivals in the Netherlands, with 30,000 visitors and eight stages surrounded by greenery."
   },
   {
     "id": "LOCAL_AUDIO_OBSCURA_2026",
     "name": "Audio Obscura 2026",
-    "description": "Audio Obscura neemt de iconische Van Nelle fabriek in Rotterdam over. Met hallen, loopbruggen en verborgen ruimtes een dag lang losgaan op de beste elektronische muziek.\n\nAudio Obscura takes over the iconic Van Nelle Factory in Rotterdam. With halls, walkways, and hidden spaces, it is a full day of cutting loose to the best electronic music.",
+    "description": "Audio Obscura neemt de iconische Van Nelle fabriek in Rotterdam over. Met hallen, loopbruggen en verborgen ruimtes een dag lang losgaan op de beste elektronische muziek.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/audioobscura.png",
     "city": "Rotterdam",
     "venue": "Van Nelle Fabriek",
@@ -589,12 +612,14 @@
         "timeStart": "20:00",
         "timeEnd": "22:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Audio Obscura takes over the iconic Van Nelle Factory in Rotterdam. With halls, walkways, and hidden spaces, it is a full day of cutting loose to the best electronic music."
   },
   {
     "id": "LOCAL_DRAAIMOLEN_2026",
     "name": "Draaimolen Festival 2026",
-    "description": "Draaimolen keert terug naar het MOB-complex in de bossen van Tilburg. Elektronische muziek, kunst en natuur in een unieke sfeervolle setting.\n\nDraaimolen returns to the MOB complex in the woods of Tilburg. Electronic music, art, and nature in a uniquely atmospheric setting.",
+    "description": "Draaimolen keert terug naar het MOB-complex in de bossen van Tilburg. Elektronische muziek, kunst en natuur in een unieke sfeervolle setting.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/draaimolen.png",
     "city": "Tilburg",
     "venue": "MOB-complex Tilburg",
@@ -610,12 +635,14 @@
     "isOutdoor": true,
     "isAccessible": false,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Draaimolen returns to the MOB complex in the woods of Tilburg. Electronic music, art, and nature in a uniquely atmospheric setting."
   },
   {
     "id": "LOCAL_LENTEKABINET_2026",
     "name": "Lentekabinet 2026",
-    "description": "Lentekabinet is Dekmantel's zusterfestival, in de polderlandschappen van Het Twiske. Zorgvuldig gecureerde elektronische muziek met oog voor kunst en omgeving.\n\nLentekabinet is Dekmantel’s sister festival, set in the polder landscapes of Het Twiske. Carefully curated electronic music with attention to art and surroundings.",
+    "description": "Lentekabinet is Dekmantel's zusterfestival, in de polderlandschappen van Het Twiske. Zorgvuldig gecureerde elektronische muziek met oog voor kunst en omgeving.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/lentekabinet.png",
     "city": "Twiske",
     "venue": "Het Twiske",
@@ -653,12 +680,14 @@
         "timeStart": "20:00",
         "timeEnd": "22:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Lentekabinet is Dekmantel’s sister festival, set in the polder landscapes of Het Twiske. Carefully curated electronic music with attention to art and surroundings."
   },
   {
     "id": "LOCAL_LOWLANDS_2026",
     "name": "Lowlands 2026",
-    "description": "Lowlands is een driedaags muziek- en cultuurschappelijk festival in Biddinghuizen. Naast de bekende dance tent ArmadiLLow kun je er ook terecht voor theater, comedy, film en wetenschap.\n\nLowlands is a three-day music and cultural festival in Biddinghuizen. Besides the well-known ArmadiLLow dance tent, you can also enjoy theatre, comedy, film, and science.",
+    "description": "Lowlands is een driedaags muziek- en cultuurschappelijk festival in Biddinghuizen. Naast de bekende dance tent ArmadiLLow kun je er ook terecht voor theater, comedy, film en wetenschap.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/lowlands.png",
     "city": "Biddinghuizen",
     "venue": "Walibi Holland",
@@ -674,12 +703,14 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Lowlands is a three-day music and cultural festival in Biddinghuizen. Besides the well-known ArmadiLLow dance tent, you can also enjoy theatre, comedy, film, and science."
   },
   {
     "id": "LOCAL_DTRH_2026",
     "name": "Down The Rabbit Hole 2026",
-    "description": "Down The Rabbit Hole is een driedaags avontuurlijk festival op de Groene Heuvels in Ewijk, waar muziek en kunst samenkomen in een unieke sfeervolle omgeving.\n\nDown The Rabbit Hole is a three-day adventurous festival at De Groene Heuvels in Ewijk, where music and art come together in a uniquely atmospheric setting.",
+    "description": "Down The Rabbit Hole is een driedaags avontuurlijk festival op de Groene Heuvels in Ewijk, waar muziek en kunst samenkomen in een unieke sfeervolle omgeving.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/rabbithole.png",
     "city": "Ewijk",
     "venue": "Groene Heuvels",
@@ -695,12 +726,14 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Down The Rabbit Hole is a three-day adventurous festival at De Groene Heuvels in Ewijk, where music and art come together in a uniquely atmospheric setting."
   },
   {
     "id": "LOCAL_LIQUICITY_2026",
     "name": "Liquicity Festival 2026",
-    "description": "Het toonaangevende drum & bass festival viert zijn 10-jarig jubileum op Recreatiegebied Geestmerambacht. Drie dagen melodische en liquid drum & bass in een prachtige natuuromgeving met camping.\n\nThe leading drum & bass festival celebrates its 10th anniversary at the Geestmerambacht recreational area. Three days of melodic and liquid drum & bass in beautiful natural surroundings with camping.",
+    "description": "Het toonaangevende drum & bass festival viert zijn 10-jarig jubileum op Recreatiegebied Geestmerambacht. Drie dagen melodische en liquid drum & bass in een prachtige natuuromgeving met camping.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/liquicity.png",
     "city": "Oudkarspel",
     "venue": "Recreatiegebied Geestmerambacht",
@@ -716,18 +749,20 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "The leading drum & bass festival celebrates its 10th anniversary at the Geestmerambacht recreational area. Three days of melodic and liquid drum & bass in beautiful natural surroundings with camping."
   },
   {
     "id": "LOCAL_BLACKOUT_XL_2026",
     "name": "Eatbrain Indoor Festival — 15 Year Anniversary",
-    "description": "Eatbrain viert zijn 15-jarig jubileum in de Maassilo Rotterdam. Een avond vol neurofunk en dark drum & bass van de beste Eatbrain artiesten.\n\nEatbrain celebrates its 15th anniversary at the Maassilo in Rotterdam. An evening full of neurofunk and dark drum & bass from the top Eatbrain artists.",
+    "description": "Eatbrain viert zijn 15-jarig jubileum in de Maassilo Rotterdam. Een avond vol neurofunk en dark drum & bass van de beste Eatbrain artiesten.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/eatbrain.png",
     "city": "Rotterdam",
     "venue": "Maassilo",
     "startDate": "2026-05-22T23:00:00",
     "endDate": "2026-05-23T07:00:00",
-    "category": "",
+    "category": "Festival",
     "genre": "Electronic/Dance",
     "isFree": false,
     "priceMin": 25,
@@ -737,12 +772,14 @@
     "isOutdoor": false,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Eatbrain celebrates its 15th anniversary at the Maassilo in Rotterdam. An evening full of neurofunk and dark drum & bass from the top Eatbrain artists."
   },
   {
     "id": "LOCAL_VISION_DNB_2026",
     "name": "Chase & Status",
-    "description": "Chase & Status brengen hun legendarische live show naar 013 Tilburg. Een van de grootste namen in drum & bass live op het podium.\n\nChase & Status bring their legendary live show to 013 Tilburg. One of the biggest names in drum & bass, live on stage.",
+    "description": "Chase & Status brengen hun legendarische live show naar 013 Tilburg. Een van de grootste namen in drum & bass live op het podium.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/chasestatus.png",
     "city": "Tilburg",
     "venue": "013",
@@ -766,12 +803,14 @@
         "timeStart": "21:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Chase & Status bring their legendary live show to 013 Tilburg. One of the biggest names in drum & bass, live on stage."
   },
   {
     "id": "LOCAL_FACTION_2026",
     "name": "Up Till Dawn",
-    "description": "Up Till Dawn is een nachtelijk drum & bass feest in Now&Wow Rotterdam. Non-stop D&B van middernacht tot zonsopgang.\n\nUp Till Dawn is a nighttime drum & bass event at Now&Wow Rotterdam. Non-stop D&B from midnight until sunrise.",
+    "description": "Up Till Dawn is een nachtelijk drum & bass feest in Now&Wow Rotterdam. Non-stop D&B van middernacht tot zonsopgang.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/uptilldawn.png",
     "city": "Rotterdam",
     "venue": "Now&Wow",
@@ -787,12 +826,14 @@
     "isOutdoor": false,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Up Till Dawn is a nighttime drum & bass event at Now&Wow Rotterdam. Non-stop D&B from midnight until sunrise."
   },
   {
     "id": "LOCAL_AMSTERDAMS_VERBOND_2026",
     "name": "Het Amsterdams Verbond 2026",
-    "description": "Het Amsterdams Verbond is een groot eendaags stadsfestival in het Olympisch Stadion met meerdere stages en een breed spectrum aan Nederlandse urban, dance en clubmuziek.\n\nThe Amsterdam Verbond is a large one-day city festival held at the Olympic Stadium, featuring multiple stages and a broad spectrum of Dutch urban, dance, and club music.",
+    "description": "Het Amsterdams Verbond is een groot eendaags stadsfestival in het Olympisch Stadion met meerdere stages en een breed spectrum aan Nederlandse urban, dance en clubmuziek.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/amsterdamsverbond.png",
     "city": "Amsterdam",
     "venue": "Olympisch Stadion",
@@ -837,12 +878,14 @@
         "timeStart": "12:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "The Amsterdam Verbond is a large one-day city festival held at the Olympic Stadium, featuring multiple stages and a broad spectrum of Dutch urban, dance, and club music."
   },
   {
     "id": "LOCAL_THUISHAVEN_ZOMER_2026",
     "name": "Thuishaven Zomeropening 2026",
-    "description": "Thuishaven opent het zomerseizoen op het terrein aan het IJ. Een relaxte dagshow met de beste selectie house en elektronische muziek.\n\nThuishaven opens the summer season at its site by the IJ. A relaxed day event featuring a top selection of house and electronic music.",
+    "description": "Thuishaven opent het zomerseizoen op het terrein aan het IJ. Een relaxte dagshow met de beste selectie house en elektronische muziek.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/thuishaven.png",
     "city": "Amsterdam",
     "venue": "Thuishaven terrein",
@@ -887,12 +930,14 @@
         "timeStart": "13:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Thuishaven opens the summer season at its site by the IJ. A relaxed day event featuring a top selection of house and electronic music."
   },
   {
     "id": "LOCAL_MOMENTS_2026",
     "name": "Moments 2026",
-    "description": "Moments is een intiem dance-evenement op Kaap Amsterdam aan het IJ. House en deep techno in een sfeervolle buitenomgeving.\n\nMoments is an intimate dance event at Kaap Amsterdam by the IJ. House and deep techno in an atmospheric outdoor setting.",
+    "description": "Moments is een intiem dance-evenement op Kaap Amsterdam aan het IJ. House en deep techno in een sfeervolle buitenomgeving.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/moments.png",
     "city": "Amsterdam",
     "venue": "Kaap Amsterdam",
@@ -937,12 +982,14 @@
         "timeStart": "12:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Moments is an intimate dance event at Kaap Amsterdam by the IJ. House and deep techno in an atmospheric outdoor setting."
   },
   {
     "id": "LOCAL_THUISHAVEN_BELT_2026",
     "name": "Thuishaven w/ Mr. Belt & Wezol 10HRS",
-    "description": "Mr. Belt & Wezol spelen een marathon set van 10 uur op het Thuishaven terrein. Pure house muziek van begin tot eind.\n\nMr. Belt & Wezol perform a 10-hour marathon set at the Thuishaven grounds. Pure house music from start to finish.",
+    "description": "Mr. Belt & Wezol spelen een marathon set van 10 uur op het Thuishaven terrein. Pure house muziek van begin tot eind.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/mrbelt.png",
     "city": "Amsterdam",
     "venue": "Thuishaven terrein",
@@ -966,12 +1013,14 @@
         "timeStart": "13:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Mr. Belt & Wezol perform a 10-hour marathon set at the Thuishaven grounds. Pure house music from start to finish."
   },
   {
     "id": "LOCAL_RAINBOW_DISCO_2026",
     "name": "Rainbow Disco Club 2026",
-    "description": "Rainbow Disco Club neemt Lofi Amsterdam over voor een dag vol disco, house en diepgravende selecties van wereldklasse DJs.\n\nRainbow Disco Club takes over Lofi Amsterdam for a day filled with disco, house, and deep-cut selections from world-class DJs.",
+    "description": "Rainbow Disco Club neemt Lofi Amsterdam over voor een dag vol disco, house en diepgravende selecties van wereldklasse DJs.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/rainbow.png",
     "city": "Amsterdam",
     "venue": "Lofi Amsterdam",
@@ -1016,12 +1065,14 @@
         "timeStart": "14:00",
         "timeEnd": "05:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Rainbow Disco Club takes over Lofi Amsterdam for a day filled with disco, house, and deep-cut selections from world-class DJs."
   },
   {
     "id": "LOCAL_THUISHAVEN_MAHMUT_2026",
     "name": "Thuishaven w/ Mahmut Orhan",
-    "description": "Thuishaven presenteert Mahmut Orhan samen met een sterk ondersteunend programma op het terrein aan het IJ.\n\nThuishaven presents Mahmut Orhan, alongside a strong supporting lineup at its site by the IJ.",
+    "description": "Thuishaven presenteert Mahmut Orhan samen met een sterk ondersteunend programma op het terrein aan het IJ.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/thuishavenmamut.png",
     "city": "Amsterdam",
     "venue": "Thuishaven terrein",
@@ -1059,12 +1110,14 @@
         "timeStart": "13:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Thuishaven presents Mahmut Orhan, alongside a strong supporting lineup at its site by the IJ."
   },
   {
     "id": "LOCAL_909_2026",
     "name": "909 Festival 2026",
-    "description": "909 is een van de beste techno dagfestivals van Nederland, georganiseerd door Loveland in het Amsterdamse Bos. Met 22.500 bezoekers en een indrukwekkende lineup van internationale topacts.\n\n909 is one of the best techno day festivals in the Netherlands, organized by Loveland in the Amsterdamse Bos. With 22,500 visitors and an impressive lineup of international top acts.",
+    "description": "909 is een van de beste techno dagfestivals van Nederland, georganiseerd door Loveland in het Amsterdamse Bos. Met 22.500 bezoekers en een indrukwekkende lineup van internationale topacts.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/909.png",
     "city": "Amstelveen",
     "venue": "Amsterdamse Bos",
@@ -1130,12 +1183,14 @@
         "timeStart": "12:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "909 is one of the best techno day festivals in the Netherlands, organized by Loveland in the Amsterdamse Bos. With 22,500 visitors and an impressive lineup of international top acts."
   },
   {
     "id": "LOCAL_FESTIFEST_2026",
     "name": "Festifest 2026",
-    "description": "Festifest is een dag vol house en disco op de NDSM Helling in Amsterdam. Bekend om zijn zorgvuldig gecureerde lineup en intieme sfeer.\n\nFestifest is a day of house and disco at the NDSM Helling in Amsterdam, known for its carefully curated lineup and intimate atmosphere.",
+    "description": "Festifest is een dag vol house en disco op de NDSM Helling in Amsterdam. Bekend om zijn zorgvuldig gecureerde lineup en intieme sfeer.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/festifest.png",
     "city": "Amsterdam",
     "venue": "NDSM Helling",
@@ -1180,12 +1235,14 @@
         "timeStart": "13:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Festifest is a day of house and disco at the NDSM Helling in Amsterdam, known for its carefully curated lineup and intimate atmosphere."
   },
   {
     "id": "LOCAL_BKS_2026",
     "name": "Best Kept Secret 2026",
-    "description": "Best Kept Secret is een driedaags muziekfestival in de prachtige natuur van Beekse Bergen in Hilvarenbeek. Met een eclectische mix van muziek, kunst en cultuur.\n\nBest Kept Secret is a three-day music festival set in the beautiful natural surroundings of Beekse Bergen in Hilvarenbeek, featuring an eclectic mix of music, art, and culture.",
+    "description": "Best Kept Secret is een driedaags muziekfestival in de prachtige natuur van Beekse Bergen in Hilvarenbeek. Met een eclectische mix van muziek, kunst en cultuur.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/bestkept.png",
     "city": "Hilvarenbeek",
     "venue": "Beekse Bergen",
@@ -1230,12 +1287,14 @@
         "timeStart": "22:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Best Kept Secret is a three-day music festival set in the beautiful natural surroundings of Beekse Bergen in Hilvarenbeek, featuring an eclectic mix of music, art, and culture."
   },
   {
     "id": "LOCAL_TROPIKALI_2026",
     "name": "Tropikali Festival 2026",
-    "description": "Tropikali is een kleurrijk festival op de NDSM-werf in Amsterdam met een mix van Mediterrane, Latijns-Amerikaanse en elektronische muziek op meerdere stages.\n\nTropikali is a colorful festival at the NDSM Wharf in Amsterdam, featuring a mix of Mediterranean, Latin American, and electronic music across multiple stages.",
+    "description": "Tropikali is een kleurrijk festival op de NDSM-werf in Amsterdam met een mix van Mediterrane, Latijns-Amerikaanse en elektronische muziek op meerdere stages.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/tropikali.png",
     "city": "Amsterdam",
     "venue": "NDSM-werf",
@@ -1266,12 +1325,14 @@
         "timeStart": "12:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Tropikali is a colorful festival at the NDSM Wharf in Amsterdam, featuring a mix of Mediterranean, Latin American, and electronic music across multiple stages."
   },
   {
     "id": "LOCAL_DRIFT_2026",
     "name": "Drift Festival 2026",
-    "description": "Drift is een house, techno en disco festival op NYMA in Nijmegen. Een sterke lokale en internationale lineup in een industriële setting aan de Waal.\n\nDrift is a house, techno, and disco festival at NYMA in Nijmegen, featuring a strong local and international lineup in an industrial setting by the Waal.",
+    "description": "Drift is een house, techno en disco festival op NYMA in Nijmegen. Een sterke lokale en internationale lineup in een industriële setting aan de Waal.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/drift.png",
     "city": "Nijmegen",
     "venue": "NYMA",
@@ -1316,12 +1377,14 @@
         "timeStart": "14:00",
         "timeEnd": "00:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Drift is a house, techno, and disco festival at NYMA in Nijmegen, featuring a strong local and international lineup in an industrial setting by the Waal."
   },
   {
     "id": "LOCAL_SOLSTICE_2026",
     "name": "Solstice Festival 2026",
-    "description": "Solstice viert de langste dag van het jaar in het kunstenaarsdorp Ruigoord met een psychedelic trance festival. Een moderne twist op oude midsomernachtrituelen.\n\nSolstice celebrates the longest day of the year in the artist village of Ruigoord with a psychedelic trance festival—a modern twist on ancient midsummer rituals.",
+    "description": "Solstice viert de langste dag van het jaar in het kunstenaarsdorp Ruigoord met een psychedelisch trance festival. Een moderne twist op oude midzomernachtrituelen.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/solstice.png",
     "city": "Amsterdam",
     "venue": "Ruigoord",
@@ -1337,12 +1400,14 @@
     "isOutdoor": true,
     "isAccessible": false,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Solstice celebrates the longest day of the year in the artist village of Ruigoord with a psychedelic trance festival—a modern twist on ancient midsummer rituals."
   },
   {
     "id": "LOCAL_ZAMNA_2026",
     "name": "Zamna Amsterdam 2026",
-    "description": "Zamna brengt zijn Mexicaanse festivalformule naar Amsterdam. Elektronische muziek in een exotische setting met een international toplineup.\n\nZamna brings its Mexican festival concept to Amsterdam. Electronic music in an exotic setting with an international top lineup.",
+    "description": "Zamna brengt zijn Mexicaanse festivalformule naar Amsterdam. Elektronische muziek in een exotische setting met een international top lineup.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/zamna.png",
     "city": "Amsterdam",
     "venue": "Havenpark",
@@ -1388,12 +1453,13 @@
         "timeEnd": "00:00"
       }
     ],
-    "address": null
+    "address": null,
+    "descriptionEn": "Zamna brings its Mexican festival concept to Amsterdam. Electronic music in an exotic setting with an international top lineup."
   },
   {
     "id": "LOCAL_WASTELAND_2026",
     "name": "Wasteland Summerfest 2026",
-    "description": "Wasteland Summerfest is een post-apocalyptisch themed festival op Kaap Amsterdam. Een dag vol vrijheid, kunst, shows en meerdere stages met uiteenlopende dance muziek.\n\nWasteland Summerfest is a post-apocalyptic themed festival at Kaap Amsterdam. A day full of freedom, art, shows, and multiple stages with diverse dance music.",
+    "description": "Wasteland Summerfest is een post-apocalyptisch themed festival op Kaap Amsterdam. Een dag vol vrijheid, kunst, shows en meerdere stages met uiteenlopende dance muziek.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/wasteland.png",
     "city": "Amsterdam",
     "venue": "Kaap Amsterdam",
@@ -1409,12 +1475,14 @@
     "isOutdoor": true,
     "isAccessible": true,
     "ageRestriction": "18+",
-    "lineup": []
+    "lineup": [],
+    "address": null,
+    "descriptionEn": "Wasteland Summerfest is a post-apocalyptic themed festival at Kaap Amsterdam. A day full of freedom, art, shows, and multiple stages with diverse dance music."
   },
   {
     "id": "LOCAL_RAVETRIBE_2026",
     "name": "Rave Tribe Festival 2026",
-    "description": "Rave Tribe is een nostalgie-festival op Thuishaven terrein met de beste house, trance, acid en oldskool rave classics uit de late jaren 80 en 90.\n\nRave Tribe is a nostalgia festival at the Thuishaven grounds, featuring the best house, trance, acid, and oldskool rave classics from the late 80s and 90s.",
+    "description": "Rave Tribe is een nostalgie-festival op Thuishaven terrein met de beste house, trance, acid en oldskool rave classics uit de late jaren 80 en 90.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/ravetribe.png",
     "city": "Amsterdam",
     "venue": "Thuishaven terrein",
@@ -1473,12 +1541,14 @@
         "timeStart": "13:00",
         "timeEnd": "23:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Rave Tribe is a nostalgia festival at the Thuishaven grounds, featuring the best house, trance, acid, and oldskool rave classics from the late 80s and 90s."
   },
   {
     "id": "LOCAL_WOOFERLAND_2026",
     "name": "Wooferland Festival 2026",
-    "description": "Wooferland is hét classics festival van Nederland — house classics, techno classics, acid en rave bij de grote vijver in Houtrak. Een dag vol nostalgie met een indrukwekkende lineup.\n\nWooferland is the ultimate classics festival in the Netherlands — house classics, techno classics, acid, and rave by the large pond in Houtrak. A full day of nostalgia with an impressive lineup.",
+    "description": "Wooferland is hét classics festival van Nederland — house classics, techno classics, acid en rave bij de grote vijver in Houtrak. Een dag vol nostalgie met een indrukwekkende lineup.",
     "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/wooferland.png",
     "city": "Haarlemmerliede",
     "venue": "Houtrak grote vijver",
@@ -1551,7 +1621,9 @@
         "timeStart": "13:00",
         "timeEnd": "22:00"
       }
-    ]
+    ],
+    "address": null,
+    "descriptionEn": "Wooferland is the ultimate classics festival in the Netherlands — house classics, techno classics, acid, and rave by the large pond in Houtrak. A full day of nostalgia with an impressive lineup."
   },
   {
     "id": "LOCAL_PLANET_PARADIGM_2026_2026",
@@ -1568,10 +1640,11 @@
     "priceMax": null,
     "currency": "EUR",
     "isAccessible": false,
-    "description": "Planet Paradigm keert terug op 30 mei in Groningen — een dag vol zware techno, hypnotische house en underground beats op één van de vetste festivallocaties van het noorden. Van 13:00 tot 23:59 dans je jezelf de wereld uit op het iconische Paradigm-terrein aan de Suikerlaan.\n\nPlanet Paradigm is back on May 30th in Groningen — a full day of heavy techno, hypnotic house and underground beats at one of the North's finest festival venues. From 1 PM until 11.59 PM you'll dance your heart out at the iconic Paradigm grounds on Suikerlaan.",
+    "description": "Planet Paradigm keert terug op 30 mei in Groningen — een dag vol zware techno, hypnotische house en underground beats op één van de vetste festivallocaties van het noorden. Van 13:00 tot 23:59 dans je jezelf de wereld uit op het iconische Paradigm-terrein aan de Suikerlaan.",
     "startDate": "2026-05-30T13:00:00",
     "endDate": "2026-05-30T23:59:00",
-    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/paradigm.png"
+    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/paradigm.png",
+    "descriptionEn": "Planet Paradigm is back on May 30th in Groningen — a full day of heavy techno, hypnotic house and underground beats at one of the North's finest festival venues. From 1 PM until 11.59 PM you'll dance your heart out at the iconic Paradigm grounds on Suikerlaan."
   },
   {
     "id": "LOCAL_BOOTHSTOCK_2026_2026",
@@ -1588,9 +1661,10 @@
     "priceMax": 71.4,
     "currency": "EUR",
     "isAccessible": false,
-    "description": "Boothstock Festival keert op zaterdag 13 juni 2026 terug naar het prachtige Kralingse Bos in Rotterdam — House, techno en urban sounds verspreid over zeven stages. De line-up is weer van het hoogste niveau met namen als Armand van Helden, 999999999, Hot Since 82, Benny Rodrigues. Van 13:00 tot 23:00 is het Kralingse Bos dé plek om de zomer mee in te luiden.\n\nBoothstock Festival returns on Saturday June 13th 2026 to the beautiful Kralingse Bos in Rotterdam — house, techno and urban sounds spread across seven stages. The line-up is top-tier once again with names like Armand van Helden, 999999999, Hot Since 82 and Benny Rodrigues. From 1 PM until 11 PM, Kralingse Bos is the place to kick off your summer in style.",
+    "description": "Boothstock Festival keert op zaterdag 13 juni 2026 terug naar het prachtige Kralingse Bos in Rotterdam — House, techno en urban sounds verspreid over zeven stages. De line-up is weer van het hoogste niveau met namen als Armand van Helden, 999999999, Hot Since 82, Benny Rodrigues. Van 13:00 tot 23:00 is het Kralingse Bos dé plek om de zomer mee in te luiden.",
     "startDate": "2026-06-13T13:00:00",
     "endDate": null,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/bootstock.png"
+    "imageUrl": "https://cdn.jsdelivr.net/gh/partyfix/partyfix-data@main/images/bootstock.png",
+    "descriptionEn": "Boothstock Festival returns on Saturday June 13th 2026 to the beautiful Kralingse Bos in Rotterdam — house, techno and urban sounds spread across seven stages. The line-up is top-tier once again with names like Armand van Helden, 999999999, Hot Since 82 and Benny Rodrigues. From 1 PM until 11 PM, Kralingse Bos is the place to kick off your summer in style."
   }
 ]
